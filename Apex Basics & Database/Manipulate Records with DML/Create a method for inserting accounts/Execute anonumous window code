@@ -1,0 +1,7 @@
+For Success
+
+AccountHandler.insertNewAccount('Test');
+
+For Fail case
+
+AccountHandler.insertNewAccount(null);
